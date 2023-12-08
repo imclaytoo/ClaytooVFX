@@ -688,7 +688,7 @@ MonoBehaviour:
 
     Variation
 
-    1'
+    Arcane'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -1784,10 +1784,15 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2444218604821596338, guid: 33f1ef65711ea4d5ebc60d5ea4a0b66d,
+        type: 3}
+      propertyPath: m_Name
+      value: BeamImpact
+      objectReference: {fileID: 0}
     - target: {fileID: 4545840975779907361, guid: 33f1ef65711ea4d5ebc60d5ea4a0b66d,
         type: 3}
       propertyPath: m_Name
-      value: vfx_aoe_v1
+      value: vfx_aoe_arcane
       objectReference: {fileID: 0}
     - target: {fileID: 4680347135505533385, guid: 33f1ef65711ea4d5ebc60d5ea4a0b66d,
         type: 3}

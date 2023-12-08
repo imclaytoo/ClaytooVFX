@@ -176,8 +176,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 504.0,
-            "y": -250.00001525878907
+            "x": 342.9999694824219,
+            "y": -205.9999542236328
         },
         "m_Blocks": [
             {
@@ -193,8 +193,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 504.0,
-            "y": -54.0
+            "x": 473.9999084472656,
+            "y": 18.000017166137697
         },
         "m_Blocks": [
             {
@@ -950,7 +950,7 @@
     "m_MaterialNeedsUpdateHash": 0,
     "m_SurfaceType": 1,
     "m_RenderingPass": 4,
-    "m_BlendMode": 1,
+    "m_BlendMode": 0,
     "m_ZTest": 4,
     "m_ZWrite": false,
     "m_TransparentCullMode": 2,
